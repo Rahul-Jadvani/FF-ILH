@@ -23,9 +23,9 @@ const team = [
     bio: "Full Stack Development, Blockchain Developer",
   },
   {
-    name: "Mohammedyaseen Sutar ",
+    name: "Ashwini ",
     role: "Software Developer",
-    image: "/yaseen.jpg",
+    image: "/Ashwi.jpg",
     bio: "Full Stack Development, Blockchain Developer",
   },
 ];

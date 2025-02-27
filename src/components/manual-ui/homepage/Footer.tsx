@@ -19,9 +19,9 @@ export default function Footer() {
       linkedin: "https://www.linkedin.com/in/sai-jadhav-371871200/",
     },
     {
-      name: "Yaseen",
+      name: "Ashwini Jadav",
       github: "https://github.com/apex-parzival",
-      linkedin: "https://www.linkedin.com/in/mohammedyaseen-sutar-6b0a9b195/",
+      linkedin: "https://www.linkedin.com/in/ashwini-jadhav-a54869318/",
     },
   ];
 
