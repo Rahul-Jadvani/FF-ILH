@@ -10,8 +10,8 @@
 
 ### About the Team
 
-- **Sachin Balurgai** | Fullstack Developer & Blockchain Developer | [sachinbaluragi2.0@gmail.com](mailto:sachinbaluragi2.0@gmail.com) | 8088526961
 - **Rahul Jadvani** | Fullstack Developer & Blockchain Developer | [rahuljadvani24@gmail.com](mailto:rahuljadvani24@gmail.com) | 6362050449
+- **Sachin Balurgai** | Fullstack Developer & Blockchain Developer | [sachinbaluragi2.0@gmail.com](mailto:sachinbaluragi2.0@gmail.com) | 8088526961
 - **Sai Jadhav** | Fullstack Developer & Blockchain Developer | [saijadhav148@gmail.com](mailto:saijadhav148@gmail.com) | 6364362410
 - **Ashwini Jadhav** | Frontend Developer and Presentation | [ashwinijadhav052004@gmail.com](mailto:ashwinijadhav052004@gmail.com) | 8095251418
 
